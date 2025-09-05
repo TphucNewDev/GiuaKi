@@ -1,0 +1,41 @@
+[ 
+{ 
+"image_name": "Image 1.heic", 
+"image_path": "images/Image 1.heic", 
+"image_base64": "", 
+"product_name": "", 
+"manufacturer": { 
+"company_name": "", 
+"address": "", 
+"phone": "" 
+}, 
+"importer": { 
+"company_name": "", 
+"address": "", 
+"phone": "" 
+}, 
+"manufacturing_date": "", 
+"expiry_date": "", 
+"type": "" 
+}, 
+{ 
+"image_name": "Image 2.heic", 
+"image_path": "images/Image 2.heic", 
+"image_base64": "", 
+"product_name": "", 
+"manufacturer": { 
+"company_name": "", 
+"address": "", 
+"phone": "" 
+}, 
+"importer": { 
+"company_name": "", 
+"address": "", 
+"phone": "" 
+}, 
+"manufacturing_date": "", 
+"expiry_date": "", 
+"type": "" 
+} 
+…………….//tiếp tục với các hình khác 
+]

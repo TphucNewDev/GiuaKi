@@ -1,0 +1,51 @@
+﻿id,image_name,product_name,manufacturer_company,manufacturer_phone,importer_company,importer_phone,manufacturing_date,expiry_date,type
+13,KemDanhRang0.jpeg,Colgate Total Advanced Fresh,Colgate-Palmolive Company,-2595,Công ty TNHH Colgate-Palmolive Việt Nam,1800555569,3/6/2024,3/6/2027,Vệ sinh cá nhân
+14,SuaTam1.jpeg,Dove Deeply Nourishing Body Wash,Unilever PLC,-2595,Công ty TNHH Quốc tế Unilever Việt Nam,18001518,4/1/2023,3/31/2026,Chăm sóc cá nhân
+15,SuaRuaMat2.jpeg,CeraVe Hydrating Facial Cleanser,"CeraVe (L’Oréal USA, Inc)",-5785,Công ty TNHH L’Oréal Việt Nam,1800545457,3/19/2023,3/18/2026,Mỹ phẩm
+16,SuaRuaMat3.jpeg,CeraVe Hydrating Facial Cleanser,"CeraVe (L’Oréal USA, Inc)",-13050,Công ty TNHH L’Oréal Việt Nam,2839101234,1/29/2023,1/28/2026,Mỹ phẩm
+17,DauGoi4.jpeg,Head & Shoulders Classic Clean Shampoo,Procter & Gamble (P&G),-13050,Công ty TNHH Procter & Gamble Việt Nam,2838279797,1/25/2024,1/24/2027,Chăm sóc tóc
+18,SuaTam5.jpeg,Dove Deeply Nourishing Body Wash,Unilever PLC,-13050,Công ty TNHH Quốc tế Unilever Việt Nam,2839101234,1/27/2024,1/26/2027,Chăm sóc cá nhân
+19,KemDanhRang6.jpeg,Colgate Total Advanced Fresh,Colgate-Palmolive Company,-5785,Công ty TNHH Colgate-Palmolive Việt Nam,2839101234,4/11/2024,4/11/2027,Vệ sinh cá nhân
+20,DauGoi7.jpeg,Head & Shoulders Classic Clean Shampoo,Procter & Gamble (P&G),-8605,Công ty TNHH Procter & Gamble Việt Nam,1800555569,7/7/2023,7/6/2026,Chăm sóc tóc
+21,SonMoi8.jpeg,Maybelline New York SuperStay Matte Ink,Maybelline LLC (L’Oréal Group),-1655,Công ty TNHH L’Oréal Việt Nam,18001518,3/25/2023,3/24/2026,Mỹ phẩm
+22,KemDanhRang9.jpeg,Colgate Total Advanced Fresh,Colgate-Palmolive Company,-5785,Công ty TNHH Colgate-Palmolive Việt Nam,18001122,3/23/2024,3/23/2027,Vệ sinh cá nhân
+23,NuocGiat10.jpeg,Ariel Matic Laundry Detergent,Procter & Gamble (P&G),-5785,Công ty TNHH Procter & Gamble Việt Nam,2838279797,4/18/2023,4/17/2026,Hóa phẩm
+24,KemDanhRang11.jpeg,Colgate Total Advanced Fresh,Colgate-Palmolive Company,-1655,Công ty TNHH Colgate-Palmolive Việt Nam,1800555589,2/2/2024,2/1/2027,Vệ sinh cá nhân
+25,DauGoi12.jpeg,Head & Shoulders Classic Clean Shampoo,Procter & Gamble (P&G),-2595,Công ty TNHH Procter & Gamble Việt Nam,1800555569,6/10/2023,6/9/2026,Chăm sóc tóc
+26,SuaRuaMat13.jpeg,CeraVe Hydrating Facial Cleanser,"CeraVe (L’Oréal USA, Inc)",-1655,Công ty TNHH L’Oréal Việt Nam,2839101234,6/4/2023,6/3/2026,Mỹ phẩm
+27,NuocGiat14.jpeg,Ariel Matic Laundry Detergent,Procter & Gamble (P&G),-5785,Công ty TNHH Procter & Gamble Việt Nam,2838279797,10/2/2023,10/1/2026,Hóa phẩm
+28,NuocSucMieng15.jpeg,Listerine Cool Mint Mouthwash,Johnson & Johnson,-13050,Công ty TNHH Johnson & Johnson Việt Nam,2839101234,11/27/2023,11/26/2026,Vệ sinh răng miệng
+29,KemDanhRang16.jpeg,Colgate Total Advanced Fresh,Colgate-Palmolive Company,-1655,Công ty TNHH Colgate-Palmolive Việt Nam,1800555589,3/9/2023,3/8/2026,Vệ sinh cá nhân
+30,NuocRuaChen17.jpeg,Sunlight Chanh 100,Unilever PLC,-1655,Công ty TNHH Quốc tế Unilever Việt Nam,1800555589,12/24/2023,12/23/2026,Hóa phẩm
+31,NuocRuaChen18.jpeg,Sunlight Chanh 100,Unilever PLC,-8605,Công ty TNHH Quốc tế Unilever Việt Nam,1800555589,8/17/2023,8/16/2026,Hóa phẩm
+32,KemDanhRang19.jpeg,Colgate Total Advanced Fresh,Colgate-Palmolive Company,-1655,Công ty TNHH Colgate-Palmolive Việt Nam,1800555589,4/19/2023,4/18/2026,Vệ sinh cá nhân
+33,DauGoi20.jpeg,Head & Shoulders Classic Clean Shampoo,Procter & Gamble (P&G),-13050,Công ty TNHH Procter & Gamble Việt Nam,18001518,10/21/2023,10/20/2026,Chăm sóc tóc
+34,KemDanhRang21.jpeg,Colgate Total Advanced Fresh,Colgate-Palmolive Company,-8605,Công ty TNHH Colgate-Palmolive Việt Nam,1800555569,2/19/2023,2/18/2026,Vệ sinh cá nhân
+35,SuaTam22.jpeg,Dove Deeply Nourishing Body Wash,Unilever PLC,-8605,Công ty TNHH Quốc tế Unilever Việt Nam,18001122,8/30/2023,8/29/2026,Chăm sóc cá nhân
+36,NuocRuaChen23.jpeg,Sunlight Chanh 100,Unilever PLC,-1655,Công ty TNHH Quốc tế Unilever Việt Nam,2839101234,3/22/2024,3/22/2027,Hóa phẩm
+37,SuaTam24.jpeg,Dove Deeply Nourishing Body Wash,Unilever PLC,-8605,Công ty TNHH Quốc tế Unilever Việt Nam,1800555589,3/18/2023,3/17/2026,Chăm sóc cá nhân
+38,SonMoi25.jpeg,Maybelline New York SuperStay Matte Ink,Maybelline LLC (L’Oréal Group),-13050,Công ty TNHH L’Oréal Việt Nam,1800555569,10/13/2023,10/12/2026,Mỹ phẩm
+39,SuaRuaMat26.jpeg,CeraVe Hydrating Facial Cleanser,"CeraVe (L’Oréal USA, Inc)",-13050,Công ty TNHH L’Oréal Việt Nam,18001234,1/6/2023,1/5/2026,Mỹ phẩm
+40,NuocRuaChen27.jpeg,Sunlight Chanh 100,Unilever PLC,-5785,Công ty TNHH Quốc tế Unilever Việt Nam,2839101234,7/12/2023,7/11/2026,Hóa phẩm
+41,NuocGiat28.jpeg,Ariel Matic Laundry Detergent,Procter & Gamble (P&G),-1655,Công ty TNHH Procter & Gamble Việt Nam,1800555589,5/14/2023,5/13/2026,Hóa phẩm
+42,NuocSucMieng29.jpeg,Listerine Cool Mint Mouthwash,Johnson & Johnson,-2595,Công ty TNHH Johnson & Johnson Việt Nam,1800555569,5/14/2024,5/14/2027,Vệ sinh răng miệng
+43,SuaTam30.jpeg,Dove Deeply Nourishing Body Wash,Unilever PLC,-1655,Công ty TNHH Quốc tế Unilever Việt Nam,18001234,3/9/2023,3/8/2026,Chăm sóc cá nhân
+44,DauGoi31.jpeg,Head & Shoulders Classic Clean Shampoo,Procter & Gamble (P&G),-1655,Công ty TNHH Procter & Gamble Việt Nam,1800555589,4/17/2024,4/17/2027,Chăm sóc tóc
+45,SuaTam32.jpeg,Dove Deeply Nourishing Body Wash,Unilever PLC,-1655,Công ty TNHH Quốc tế Unilever Việt Nam,1800555589,11/7/2023,11/6/2026,Chăm sóc cá nhân
+46,SuaTam33.jpeg,Dove Deeply Nourishing Body Wash,Unilever PLC,-2595,Công ty TNHH Quốc tế Unilever Việt Nam,1800555569,2/15/2024,2/14/2027,Chăm sóc cá nhân
+47,NuocGiat34.jpeg,Ariel Matic Laundry Detergent,Procter & Gamble (P&G),-5785,Công ty TNHH Procter & Gamble Việt Nam,18001122,12/25/2023,12/24/2026,Hóa phẩm
+48,NuocGiat35.jpeg,Ariel Matic Laundry Detergent,Procter & Gamble (P&G),-8605,Công ty TNHH Procter & Gamble Việt Nam,2838279797,3/13/2023,3/12/2026,Hóa phẩm
+49,NuocRuaChen36.jpeg,Sunlight Chanh 100,Unilever PLC,-2595,Công ty TNHH Quốc tế Unilever Việt Nam,2839101234,2/20/2023,2/19/2026,Hóa phẩm
+50,NuocSucMieng37.jpeg,Listerine Cool Mint Mouthwash,Johnson & Johnson,-5785,Công ty TNHH Johnson & Johnson Việt Nam,2839101234,8/3/2023,8/2/2026,Vệ sinh răng miệng
+51,SuaTam38.jpeg,Dove Deeply Nourishing Body Wash,Unilever PLC,-13050,Công ty TNHH Quốc tế Unilever Việt Nam,1800555569,3/17/2024,3/17/2027,Chăm sóc cá nhân
+52,NuocGiat39.jpeg,Ariel Matic Laundry Detergent,Procter & Gamble (P&G),-2595,Công ty TNHH Procter & Gamble Việt Nam,2839101234,9/17/2023,9/16/2026,Hóa phẩm
+53,SuaTam40.jpeg,Dove Deeply Nourishing Body Wash,Unilever PLC,-8605,Công ty TNHH Quốc tế Unilever Việt Nam,18001518,2/22/2024,2/21/2027,Chăm sóc cá nhân
+54,SuaRuaMat41.jpeg,CeraVe Hydrating Facial Cleanser,"CeraVe (L’Oréal USA, Inc)",-8605,Công ty TNHH L’Oréal Việt Nam,1800545457,7/12/2023,7/11/2026,Mỹ phẩm
+55,NuocRuaChen42.jpeg,Sunlight Chanh 100,Unilever PLC,-8605,Công ty TNHH Quốc tế Unilever Việt Nam,18001234,12/30/2023,12/29/2026,Hóa phẩm
+56,NuocRuaChen43.jpeg,Sunlight Chanh 100,Unilever PLC,-2595,Công ty TNHH Quốc tế Unilever Việt Nam,2838279797,5/15/2024,5/15/2027,Hóa phẩm
+57,NuocGiat44.jpeg,Ariel Matic Laundry Detergent,Procter & Gamble (P&G),-8605,Công ty TNHH Procter & Gamble Việt Nam,1800545457,9/4/2023,9/3/2026,Hóa phẩm
+58,SuaTam45.jpeg,Dove Deeply Nourishing Body Wash,Unilever PLC,-1655,Công ty TNHH Quốc tế Unilever Việt Nam,1800545457,3/14/2024,3/14/2027,Chăm sóc cá nhân
+59,SuaTam46.jpeg,Dove Deeply Nourishing Body Wash,Unilever PLC,-1655,Công ty TNHH Quốc tế Unilever Việt Nam,1800555569,12/7/2023,12/6/2026,Chăm sóc cá nhân
+60,SuaTam47.jpeg,Dove Deeply Nourishing Body Wash,Unilever PLC,-1655,Công ty TNHH Quốc tế Unilever Việt Nam,18001122,5/6/2024,5/6/2027,Chăm sóc cá nhân
+61,NuocHoaHong48.jpeg,Hada Labo Gokujyun Lotion,"Rohto Pharmaceutical Co., Ltd.",-8605,Công ty TNHH Rohto-Mentholatum (Việt Nam),1800545457,2/17/2024,2/16/2027,Mỹ phẩm
+62,SuaRuaMat49.jpeg,CeraVe Hydrating Facial Cleanser,"CeraVe (L’Oréal USA, Inc)",-1655,Công ty TNHH L’Oréal Việt Nam,18001234,7/29/2023,7/28/2026,Mỹ phẩm
